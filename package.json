@@ -1,0 +1,27 @@
+{
+  "name": "mern-hello-world",
+  "version": "1.0.0",
+  "description": "my first mongo express react nodeJs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jone14/mern-hello-world.git"
+  },
+  "author": "Joseph (Jone)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jone14/mern-hello-world/issues"
+  },
+  "homepage": "https://github.com/Jone14/mern-hello-world#readme",
+  "dependencies": {
+    "browserify": "^14.5.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0",
+    "rectify": "^0.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
